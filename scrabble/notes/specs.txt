@@ -1,0 +1,3 @@
+18.5mm x 21mm x 4.5mm
+fillet 0.5 mm radius
+letters: 10 mm high, 0.3 mm deep
