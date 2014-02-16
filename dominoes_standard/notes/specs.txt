@@ -1,0 +1,2 @@
+dims: 2" X 1" X 0.375"
+fillet .05" radius
